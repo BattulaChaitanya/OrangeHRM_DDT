@@ -1,0 +1,119 @@
+[TestNG-tests-1] INFO Log - ********Chrome Browser Launched Successfully********
+[TestNG-tests-3] INFO Log - ********Chrome Browser Launched Successfully********
+[TestNG-tests-2] INFO Log - ********Chrome Browser Launched Successfully********
+[TestNG-tests-3] INFO Log - Navigated to OrangeHRM Application WebPage
+[TestNG-tests-2] INFO Log - Navigated to OrangeHRM Application WebPage
+[TestNG-tests-1] INFO Log - Navigated to OrangeHRM Application WebPage
+[TestNG-tests-2] INFO Log - The Expected Login Page Title is :-orangeHRM
+[TestNG-tests-2] INFO Log - The Actual Login Page Title is :- OrangeHRM
+[TestNG-tests-2] INFO Log - The Actual LoginPage Title is Not same as Expected Loginpage Title - Fail
+[TestNG-tests-1] INFO Log - OrangeHRM Application Login Page OrangeHRM Image Uploaded Successfully - PASS
+[TestNG-tests-1] INFO Log - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+[TestNG-tests-2] INFO Log - OrangeHRM Application Login Page OrangeHRM Image Uploaded Successfully - PASS
+[TestNG-tests-1] INFO Log - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+[TestNG-tests-1] INFO Log - Title for the OrangeHRM LoginPage is Not Matched - Fail
+[TestNG-tests-1] INFO Log - The Expected Home Page Text is :- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is:- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is same as Expected Home Page Text - Pass
+[TestNG-tests-1] INFO Log - The Expected span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message Text is:- Valid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message is Not same as Expected Span Message - Fail
+[TestNG-tests-2] INFO Log - The Expected Add Employee Page Text is:- Add Employee
+[TestNG-tests-2] INFO Log - The Actual Add Employee page Text is:- Add Employee
+[TestNG-tests-2] INFO Log - Text for the Add Employee Page is Matched -Pass
+[TestNG-tests-1] INFO Log - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+[TestNG-tests-1] INFO Log - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+[TestNG-tests-1] INFO Log - Title for the OrangeHRM LoginPage is Not Matched - Fail
+[TestNG-tests-2] INFO Log - The Add Employee EmployeeId Value is:- 0416
+[TestNG-tests-3] INFO Log - ********Chrome Browser Closed Successfully********
+[TestNG-tests-1] INFO Log - The Expected Home Page Text is :- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is:- LOGIN Panel
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is Not same as Expected Home Page Text - Fail
+[TestNG-tests-1] INFO Log - The Expected span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message is same as Expected Span Message - Pass
+[TestNG-tests-1] INFO Log - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+[TestNG-tests-1] INFO Log - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+[TestNG-tests-1] INFO Log - Title for the OrangeHRM LoginPage is Not Matched - Fail
+[TestNG-tests-2] INFO Log - The Add Employee EmployeeId Value is:- 0417
+[TestNG-tests-1] INFO Log - The Expected Home Page Text is :- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is:- LOGIN Panel
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is Not same as Expected Home Page Text - Fail
+[TestNG-tests-1] INFO Log - The Expected span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message is same as Expected Span Message - Pass
+[TestNG-tests-1] INFO Log - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+[TestNG-tests-1] INFO Log - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+[TestNG-tests-1] INFO Log - Title for the OrangeHRM LoginPage is Not Matched - Fail
+[TestNG-tests-1] INFO Log - The Expected Home Page Text is :- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is:- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is same as Expected Home Page Text - Pass
+[TestNG-tests-1] INFO Log - The Expected span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message Text is:- Valid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message is Not same as Expected Span Message - Fail
+[TestNG-tests-1] INFO Log - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+[TestNG-tests-1] INFO Log - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+[TestNG-tests-1] INFO Log - Title for the OrangeHRM LoginPage is Not Matched - Fail
+[TestNG-tests-2] INFO Log - The Add Employee EmployeeId Value is:- 0418
+[TestNG-tests-1] INFO Log - The Expected Home Page Text is :- Admin
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is:- LOGIN Panel
+[TestNG-tests-1] INFO Log - The Actual Home Page Text is Not same as Expected Home Page Text - Fail
+[TestNG-tests-1] INFO Log - The Expected span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message Text is:- Invalid credentials
+[TestNG-tests-1] INFO Log - The Actual Span Message is same as Expected Span Message - Pass
+[TestNG-tests-1] INFO Log - ********Chrome Browser Closed Successfully********
+[TestNG-tests-2] INFO Log - The Expected HomePage Text is :- Admin
+[TestNG-tests-2] INFO Log - The Actual HomePage Text is :- Admin
+[TestNG-tests-2] INFO Log - The Actual HomePage Text is same as The Expected HomePage Text is Pass
+[TestNG-tests-2] INFO Log - The Expected loginPage is :-Invalid credentials
+[TestNG-tests-2] INFO Log - The Actual loginPage is :-Valid Credentials
+[TestNG-tests-2] INFO Log - The Credentials are Fail
+[TestNG-tests-2] INFO Log - The Expected Personal Details Page Text is :- Personal Details
+[TestNG-tests-2] INFO Log - The Actual Personal Details Page Text is :- Personal Details
+[TestNG-tests-2] INFO Log - The Actual Personal Details Page Text is same as Expected Personal Details Page Text - Pass
+[TestNG-tests-2] INFO Log - The Expected First Name is :- Vayu
+[TestNG-tests-2] INFO Log - The Actual First Name is :- Vayu
+[TestNG-tests-2] INFO Log - The Actual First Name is same as the Expected First Name - Pass
+[TestNG-tests-2] INFO Log - The Expected Middle Name is :- Putra
+[TestNG-tests-2] INFO Log - The Actual Middle Name is :- Putra
+[TestNG-tests-2] INFO Log - The Actual Middle Name is same as the Expected Middle Name - Pass
+[TestNG-tests-2] INFO Log - The Expected First Name is :- Hanuma
+[TestNG-tests-2] INFO Log - The Actual First Name is :- Hanuma
+[TestNG-tests-2] INFO Log - The Actual Last Name is same as the Expected Last Name - Pass
+[TestNG-tests-2] INFO Log - The Expected Employee ID is :- 0416
+[TestNG-tests-2] INFO Log - The Actual Employee ID is :- 0416
+[TestNG-tests-2] INFO Log - The Actual Employee ID is same as the Expected Employee ID - Pass
+[TestNG-tests-2] INFO Log - The Expected Personal Details Page Text is :- Personal Details
+[TestNG-tests-2] INFO Log - The Actual Personal Details Page Text is :- Personal Details
+[TestNG-tests-2] INFO Log - The Actual Personal Details Page Text is same as Expected Personal Details Page Text - Pass
+[TestNG-tests-2] INFO Log - The Expected First Name is :- Kesari
+[TestNG-tests-2] INFO Log - The Actual First Name is :- Kesari
+[TestNG-tests-2] INFO Log - The Actual First Name is same as the Expected First Name - Pass
+[TestNG-tests-2] INFO Log - The Expected Middle Name is :- Nandana
+[TestNG-tests-2] INFO Log - The Actual Middle Name is :- Nandana
+[TestNG-tests-2] INFO Log - The Actual Middle Name is same as the Expected Middle Name - Pass
+[TestNG-tests-2] INFO Log - The Expected First Name is :- Hanuma
+[TestNG-tests-2] INFO Log - The Actual First Name is :- Hanuma
+[TestNG-tests-2] INFO Log - The Actual Last Name is same as the Expected Last Name - Pass
+[TestNG-tests-2] INFO Log - The Expected Employee ID is :- 0417
+[TestNG-tests-2] INFO Log - The Actual Employee ID is :- 0417
+[TestNG-tests-2] INFO Log - The Actual Employee ID is same as the Expected Employee ID - Pass
+[TestNG-tests-2] INFO Log - The Expected Personal Details Page Text is :- Personal Details
+[TestNG-tests-2] INFO Log - The Actual Personal Details Page Text is :- Personal Details
+[TestNG-tests-2] INFO Log - The Actual Personal Details Page Text is same as Expected Personal Details Page Text - Pass
+[TestNG-tests-2] INFO Log - The Expected First Name is :- Rama
+[TestNG-tests-2] INFO Log - The Actual First Name is :- Rama
+[TestNG-tests-2] INFO Log - The Actual First Name is same as the Expected First Name - Pass
+[TestNG-tests-2] INFO Log - The Expected Middle Name is :- Dhuta
+[TestNG-tests-2] INFO Log - The Actual Middle Name is :- Dhuta
+[TestNG-tests-2] INFO Log - The Actual Middle Name is same as the Expected Middle Name - Pass
+[TestNG-tests-2] INFO Log - The Expected First Name is :- Hanuma
+[TestNG-tests-2] INFO Log - The Actual First Name is :- Hanuma
+[TestNG-tests-2] INFO Log - The Actual Last Name is same as the Expected Last Name - Pass
+[TestNG-tests-2] INFO Log - The Expected Employee ID is :- 0418
+[TestNG-tests-2] INFO Log - The Actual Employee ID is :- 0418
+[TestNG-tests-2] INFO Log - The Actual Employee ID is same as the Expected Employee ID - Pass
+[TestNG-tests-2] INFO Log - The Expected Login Page Text is :- LOGIN Panel
+[TestNG-tests-2] INFO Log - The Actual Login Page Text is :- LOGIN Panel
+[TestNG-tests-2] INFO Log - The Actual Login Page Text is same as Expected Login Page Text - Pass
+[TestNG-tests-2] INFO Log - ********Chrome Browser Closed Successfully********

@@ -1,0 +1,119 @@
+2024-03-05 16:56:42,334 - Log -INFO - ********Chrome Browser Launched Successfully********
+2024-03-05 16:56:42,340 - Log -INFO - ********Chrome Browser Launched Successfully********
+2024-03-05 16:56:42,383 - Log -INFO - ********Chrome Browser Launched Successfully********
+2024-03-05 16:56:42,972 - Log -INFO - Navigated to OrangeHRM Application WebPage
+2024-03-05 16:56:43,178 - Log -INFO - Navigated to OrangeHRM Application WebPage
+2024-03-05 16:56:43,429 - Log -INFO - Navigated to OrangeHRM Application WebPage
+2024-03-05 16:56:44,140 - Log -INFO - The Expected Login Page Title is :-orangeHRM
+2024-03-05 16:56:44,161 - Log -INFO - The Actual Login Page Title is :- OrangeHRM
+2024-03-05 16:56:44,171 - Log -INFO - The Actual LoginPage Title is Not same as Expected Loginpage Title - Fail
+2024-03-05 16:56:44,229 - Log -INFO - OrangeHRM Application Login Page OrangeHRM Image Uploaded Successfully - PASS
+2024-03-05 16:56:44,238 - Log -INFO - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+2024-03-05 16:56:44,242 - Log -INFO - OrangeHRM Application Login Page OrangeHRM Image Uploaded Successfully - PASS
+2024-03-05 16:56:44,259 - Log -INFO - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+2024-03-05 16:56:44,263 - Log -INFO - Title for the OrangeHRM LoginPage is Not Matched - Fail
+2024-03-05 16:56:46,930 - Log -INFO - The Expected Home Page Text is :- Admin
+2024-03-05 16:56:46,939 - Log -INFO - The Actual Home Page Text is:- Admin
+2024-03-05 16:56:46,946 - Log -INFO - The Actual Home Page Text is same as Expected Home Page Text - Pass
+2024-03-05 16:56:46,955 - Log -INFO - The Expected span Message Text is:- Invalid credentials
+2024-03-05 16:56:46,962 - Log -INFO - The Actual Span Message Text is:- Valid credentials
+2024-03-05 16:56:46,969 - Log -INFO - The Actual Span Message is Not same as Expected Span Message - Fail
+2024-03-05 16:56:48,348 - Log -INFO - The Expected Add Employee Page Text is:- Add Employee
+2024-03-05 16:56:48,356 - Log -INFO - The Actual Add Employee page Text is:- Add Employee
+2024-03-05 16:56:48,371 - Log -INFO - Text for the Add Employee Page is Matched -Pass
+2024-03-05 16:56:48,520 - Log -INFO - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+2024-03-05 16:56:48,553 - Log -INFO - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+2024-03-05 16:56:48,569 - Log -INFO - Title for the OrangeHRM LoginPage is Not Matched - Fail
+2024-03-05 16:56:48,835 - Log -INFO - The Add Employee EmployeeId Value is:- 0416
+2024-03-05 16:56:53,394 - Log -INFO - ********Chrome Browser Closed Successfully********
+2024-03-05 16:56:59,901 - Log -INFO - The Expected Home Page Text is :- Admin
+2024-03-05 16:56:59,901 - Log -INFO - The Actual Home Page Text is:- LOGIN Panel
+2024-03-05 16:56:59,917 - Log -INFO - The Actual Home Page Text is Not same as Expected Home Page Text - Fail
+2024-03-05 16:56:59,964 - Log -INFO - The Expected span Message Text is:- Invalid credentials
+2024-03-05 16:56:59,964 - Log -INFO - The Actual Span Message Text is:- Invalid credentials
+2024-03-05 16:56:59,979 - Log -INFO - The Actual Span Message is same as Expected Span Message - Pass
+2024-03-05 16:56:59,979 - Log -INFO - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+2024-03-05 16:56:59,995 - Log -INFO - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+2024-03-05 16:57:00,011 - Log -INFO - Title for the OrangeHRM LoginPage is Not Matched - Fail
+2024-03-05 16:57:08,008 - Log -INFO - The Add Employee EmployeeId Value is:- 0417
+2024-03-05 16:57:11,869 - Log -INFO - The Expected Home Page Text is :- Admin
+2024-03-05 16:57:11,869 - Log -INFO - The Actual Home Page Text is:- LOGIN Panel
+2024-03-05 16:57:11,884 - Log -INFO - The Actual Home Page Text is Not same as Expected Home Page Text - Fail
+2024-03-05 16:57:11,931 - Log -INFO - The Expected span Message Text is:- Invalid credentials
+2024-03-05 16:57:11,947 - Log -INFO - The Actual Span Message Text is:- Invalid credentials
+2024-03-05 16:57:11,947 - Log -INFO - The Actual Span Message is same as Expected Span Message - Pass
+2024-03-05 16:57:11,962 - Log -INFO - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+2024-03-05 16:57:11,978 - Log -INFO - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+2024-03-05 16:57:11,994 - Log -INFO - Title for the OrangeHRM LoginPage is Not Matched - Fail
+2024-03-05 16:57:14,653 - Log -INFO - The Expected Home Page Text is :- Admin
+2024-03-05 16:57:14,660 - Log -INFO - The Actual Home Page Text is:- Admin
+2024-03-05 16:57:14,667 - Log -INFO - The Actual Home Page Text is same as Expected Home Page Text - Pass
+2024-03-05 16:57:14,680 - Log -INFO - The Expected span Message Text is:- Invalid credentials
+2024-03-05 16:57:14,689 - Log -INFO - The Actual Span Message Text is:- Valid credentials
+2024-03-05 16:57:14,695 - Log -INFO - The Actual Span Message is Not same as Expected Span Message - Fail
+2024-03-05 16:57:15,957 - Log -INFO - The Expected Title for the OrangeHRM LoginPage is :- orangeHRM
+2024-03-05 16:57:15,981 - Log -INFO - The Actual Title for the OrangeHRM LoginPage is :- OrangeHRM
+2024-03-05 16:57:15,986 - Log -INFO - Title for the OrangeHRM LoginPage is Not Matched - Fail
+2024-03-05 16:57:25,501 - Log -INFO - The Add Employee EmployeeId Value is:- 0418
+2024-03-05 16:57:27,271 - Log -INFO - The Expected Home Page Text is :- Admin
+2024-03-05 16:57:27,287 - Log -INFO - The Actual Home Page Text is:- LOGIN Panel
+2024-03-05 16:57:27,287 - Log -INFO - The Actual Home Page Text is Not same as Expected Home Page Text - Fail
+2024-03-05 16:57:27,349 - Log -INFO - The Expected span Message Text is:- Invalid credentials
+2024-03-05 16:57:27,361 - Log -INFO - The Actual Span Message Text is:- Invalid credentials
+2024-03-05 16:57:27,365 - Log -INFO - The Actual Span Message is same as Expected Span Message - Pass
+2024-03-05 16:57:27,783 - Log -INFO - ********Chrome Browser Closed Successfully********
+2024-03-05 16:57:44,228 - Log -INFO - The Expected HomePage Text is :- Admin
+2024-03-05 16:57:44,229 - Log -INFO - The Actual HomePage Text is :- Admin
+2024-03-05 16:57:44,243 - Log -INFO - The Actual HomePage Text is same as The Expected HomePage Text is Pass
+2024-03-05 16:57:44,251 - Log -INFO - The Expected loginPage is :-Invalid credentials
+2024-03-05 16:57:44,258 - Log -INFO - The Actual loginPage is :-Valid Credentials
+2024-03-05 16:57:44,264 - Log -INFO - The Credentials are Fail
+2024-03-05 16:57:44,278 - Log -INFO - The Expected Personal Details Page Text is :- Personal Details
+2024-03-05 16:57:44,285 - Log -INFO - The Actual Personal Details Page Text is :- Personal Details
+2024-03-05 16:57:44,291 - Log -INFO - The Actual Personal Details Page Text is same as Expected Personal Details Page Text - Pass
+2024-03-05 16:57:44,299 - Log -INFO - The Expected First Name is :- Vayu
+2024-03-05 16:57:44,312 - Log -INFO - The Actual First Name is :- Vayu
+2024-03-05 16:57:44,319 - Log -INFO - The Actual First Name is same as the Expected First Name - Pass
+2024-03-05 16:57:44,332 - Log -INFO - The Expected Middle Name is :- Putra
+2024-03-05 16:57:44,342 - Log -INFO - The Actual Middle Name is :- Putra
+2024-03-05 16:57:44,349 - Log -INFO - The Actual Middle Name is same as the Expected Middle Name - Pass
+2024-03-05 16:57:44,355 - Log -INFO - The Expected First Name is :- Hanuma
+2024-03-05 16:57:44,361 - Log -INFO - The Actual First Name is :- Hanuma
+2024-03-05 16:57:44,367 - Log -INFO - The Actual Last Name is same as the Expected Last Name - Pass
+2024-03-05 16:57:44,375 - Log -INFO - The Expected Employee ID is :- 0416
+2024-03-05 16:57:44,390 - Log -INFO - The Actual Employee ID is :- 0416
+2024-03-05 16:57:44,396 - Log -INFO - The Actual Employee ID is same as the Expected Employee ID - Pass
+2024-03-05 16:57:44,403 - Log -INFO - The Expected Personal Details Page Text is :- Personal Details
+2024-03-05 16:57:44,409 - Log -INFO - The Actual Personal Details Page Text is :- Personal Details
+2024-03-05 16:57:44,417 - Log -INFO - The Actual Personal Details Page Text is same as Expected Personal Details Page Text - Pass
+2024-03-05 16:57:44,424 - Log -INFO - The Expected First Name is :- Kesari
+2024-03-05 16:57:44,432 - Log -INFO - The Actual First Name is :- Kesari
+2024-03-05 16:57:44,440 - Log -INFO - The Actual First Name is same as the Expected First Name - Pass
+2024-03-05 16:57:44,451 - Log -INFO - The Expected Middle Name is :- Nandana
+2024-03-05 16:57:44,457 - Log -INFO - The Actual Middle Name is :- Nandana
+2024-03-05 16:57:44,467 - Log -INFO - The Actual Middle Name is same as the Expected Middle Name - Pass
+2024-03-05 16:57:44,481 - Log -INFO - The Expected First Name is :- Hanuma
+2024-03-05 16:57:44,490 - Log -INFO - The Actual First Name is :- Hanuma
+2024-03-05 16:57:44,490 - Log -INFO - The Actual Last Name is same as the Expected Last Name - Pass
+2024-03-05 16:57:44,501 - Log -INFO - The Expected Employee ID is :- 0417
+2024-03-05 16:57:44,506 - Log -INFO - The Actual Employee ID is :- 0417
+2024-03-05 16:57:44,516 - Log -INFO - The Actual Employee ID is same as the Expected Employee ID - Pass
+2024-03-05 16:57:44,523 - Log -INFO - The Expected Personal Details Page Text is :- Personal Details
+2024-03-05 16:57:44,531 - Log -INFO - The Actual Personal Details Page Text is :- Personal Details
+2024-03-05 16:57:44,542 - Log -INFO - The Actual Personal Details Page Text is same as Expected Personal Details Page Text - Pass
+2024-03-05 16:57:44,557 - Log -INFO - The Expected First Name is :- Rama
+2024-03-05 16:57:44,558 - Log -INFO - The Actual First Name is :- Rama
+2024-03-05 16:57:44,568 - Log -INFO - The Actual First Name is same as the Expected First Name - Pass
+2024-03-05 16:57:44,573 - Log -INFO - The Expected Middle Name is :- Dhuta
+2024-03-05 16:57:44,582 - Log -INFO - The Actual Middle Name is :- Dhuta
+2024-03-05 16:57:44,590 - Log -INFO - The Actual Middle Name is same as the Expected Middle Name - Pass
+2024-03-05 16:57:44,599 - Log -INFO - The Expected First Name is :- Hanuma
+2024-03-05 16:57:44,599 - Log -INFO - The Actual First Name is :- Hanuma
+2024-03-05 16:57:44,613 - Log -INFO - The Actual Last Name is same as the Expected Last Name - Pass
+2024-03-05 16:57:44,628 - Log -INFO - The Expected Employee ID is :- 0418
+2024-03-05 16:57:44,628 - Log -INFO - The Actual Employee ID is :- 0418
+2024-03-05 16:57:44,644 - Log -INFO - The Actual Employee ID is same as the Expected Employee ID - Pass
+2024-03-05 16:57:46,027 - Log -INFO - The Expected Login Page Text is :- LOGIN Panel
+2024-03-05 16:57:46,035 - Log -INFO - The Actual Login Page Text is :- LOGIN Panel
+2024-03-05 16:57:46,042 - Log -INFO - The Actual Login Page Text is same as Expected Login Page Text - Pass
+2024-03-05 16:57:46,497 - Log -INFO - ********Chrome Browser Closed Successfully********
